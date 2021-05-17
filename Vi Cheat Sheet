@@ -1,0 +1,13 @@
+Vi Cheat Sheet
+
+:w 	Save
+:x 	Save & Exit
+:q 	Exit if no changes made
+:q! Exit & discard any changes
+
+G 	End of file
+gg	Start of document
+dd 	Delete current line
+D 	Delete the rest of line
+
+U 	Undo all changes to line
