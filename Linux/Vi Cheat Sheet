@@ -1,0 +1,16 @@
+Linux Commands
+
+- cat tepe > tepe1 (transfer content from tepe 					to tepe1) 
+- > owerwrite
+
+- >> copy content
+
+- head tepe (first ten line)
+- tail tepe(last ten line)
+
+-tail -n 2 tepe (last two file)
+
+- cp tepe tepe1
+
+
+
