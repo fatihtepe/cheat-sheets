@@ -1,0 +1,47 @@
+Ohh my linux :))
+
+* vim — the universal text editor
+
+* ps and htop — listing and finding processes
+	ps aux | grep bash
+
+* ss and netstat — what ports is that process 	using?
+	-n lists processes using numeric addresses (eg, IP addresses instead of DNS names)
+	-t lists TCP connections
+	-a lists all connections — listening and established
+	-u lists UDP connections
+	-p shows the process using the socket — probably the most useful
+	-e shows some extended information, like the uid.
+
+* Shell job control — fg / bg / jobs etc
+	To get an application back, just fg <jobnumber> to bring it back to the foreground, or bg <jobnumber> to let it run in the background. This really saves you having to open up multiple SSH connections.
+
+
+* git — version control all the things
+
+* ssh / mosh / tmux
+	ssh — I know it seems incredibly simple, but most people don’t know that you can do things like run one-liners like ssh user@host 'service httpd restart' .
+
+	tmux (and before it, I used screen) is the defacto standard for terminal multiplexing, and keeping things running after you logout.
+
+	mosh is something that unfortunately not enough people know about. It basically provides SSH access over unreliable, slow, or laggy networks.
+
+Honourable mentions / power tools
+Control sequences — Ctrl+C (normally “cancel”), Ctrl+D (end of input), Ctrl+L (redraw), Ctrl+S (xoff — stop printing output), Ctrl+Q (xon — continue printing output). I find myself using Ctrl+C, S and Q quite a bit on slow SSH connections!
+
+nc — net cat, great for easily connecting to remote ports and network debugging.
+
+openssl — mostly for investigating x509 certificates — openssl -in foo.cert -text -noout — very useful for seeing when certs expire, or simila
+
+strace — trace system calls, like fopen, flock, or similar being used by processes.
+
+dd — Useful for directly writing to, and copying to storage. Fun fact, dd is for “converting and copying” files, but it’s not called “cc”, because that was taken (cc is a C compiler).
+
+iptables — I’m sorry, I remove firewalld from most of my servers and write rules directly with itpables. I’m not elitist — firewalld can be great, but it’s just a overly complex user interface on top of netfilter in my opinion. I know how to open a port using iptables rules directly ( iptables -A INPUT -p tcp --dport 1337 -s 1.2.3.4 -j ACCEPT etc) so I just find that more convenient for me.
+
+dig — I have a lot of domains, and find myself interacting with DNS quite a bit. It’s a simple and powerful tool to quickly run DNS queries.
+
+source: https://medium.com/james-reads-public-cloud-technology-blog/linux-tools-that-i-learned-10-years-ago-which-i-still-use-every-day-9289f952f169
+
+
+
