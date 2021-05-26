@@ -1,0 +1,113 @@
+1. cat verylongfile.txt | more # shows the content of verylongfile.txt split in pages
+
+2. cat verylongfile.txt | less # shows the content of verylongfile.txt split in pages, with support for scrolling and backwards navigation
+
+3. cat verylongfile.txt | grep "I love you" # shows the lines where the string "I love you" is found
+
+4. uname -a # shows info about the system (kernel, architecture...)
+
+5. sudo lshw # (only Linux) list all the hardware components
+
+6. sudo lshw -short # (only Linux) list a summary table with the hardware components
+
+7. lscpu # (only Linux) show information about the CPU
+
+8. lsusb # (only Linux) list the plugged USB devices
+
+9. date # print the current date and time
+
+10. ps # shows the processes running right now on this terminal session
+
+11. ps aux # shows all the processes running on the computer
+
+12. htop # display an activity monitor in the terminal
+
+13. su # change current user to root
+
+14. su - # change current user and local variables to root
+
+15. su maria # change current user to "maria"
+
+16. sudo nano # runs command "nano" as root user
+
+17. pwd # get current directory
+
+18. cd  # change current directory to home
+
+19. cd /bin # change current directory to /bin
+
+20. cd .. # go to parent directory
+
+21. ls # list of files and directories in the current directory
+
+22. ls /bin # list of files and directories in /bin
+
+23. ls -l # detailed info (size, date...)
+
+24. ls -a # show hidden files and directories
+
+25. ls -ld # show info about the current directory (not its files)
+
+26. ls my* # list of files starting with my...
+
+27. tree # shows a tree of the current directory
+
+28. wget https://somewebpage.com/somefile.zip # download the file hosted in the specified URL to the current directory
+
+29. mkdir movies # create a folder called "movies" inside the current directory
+
+30. mkdir -p movies/genres/scifi # create a folder called "movies", create inside "genres", and inside "scifi
+
+31. rmdir movies # remove the empty directory movies 
+
+32. rm -rf movies # remove the directory movies and its files
+
+33. rm file1.txt # remove the file file1.txt
+
+34. mv /home/michael/myfile.txt /home/john/important.txt # move a file from /home/michael to /home/john
+
+35. cp /home/michael/myfile.txt /home/john/important.txt # copy a file from /home/michael to /home/john
+
+36. cp -R letters/ memories/ # copy the contents of the folder "letters" inside the folder "memories"
+
+37. cp -R letters ~/Desktop # copy the folder "letters" to the Desktop
+
+38. chmod 777 script.sh # changes permissions of file script.sh
+
+39. chmod +x script.sh # makes file script.sh executable
+
+40. chown guille script.sh # changes owner of file "script.sh" to user "guille"
+./script.sh # runs script.sh
+
+
+source: https://betterprogramming.pub/the-essential-bash-cheat-sheet-e1c3df06560
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
