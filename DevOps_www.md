@@ -31,4 +31,12 @@ Before we go into the career transition from System Administrator to DevOps letâ
 https://levelup.gitconnected.com/journey-to-become-a-devops-engineer-2a4cdfd1912c
 ###
 
+How To Become a DevOps Engineer In Six Months or Less
+
+Are you a developer looking to shift your career towards a more DevOps model?
+Are you are a classically trained Ops person and you would like to get a feeling of what this whole DevOps thing is all about?
+Or are you neither, and having spent some time working with technology you are now simply looking for a career change and have no idea where to start?
+If so, read on, for we are going to see how to become a mid-level DevOps engineer in six months!
+Finally, if you have been doing this DevOps thing for years now, you might still find this useful as a validation of where we are and where this is going.
+https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737
 
