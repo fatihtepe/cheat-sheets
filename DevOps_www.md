@@ -1,7 +1,7 @@
 https://devopslifecycle.com/roadmaps 
 
 
-### Discovering AWS
+## Discovering AWS
 You might realise that it’s probably near impossible to dive into 
 each service and completely understand how they work and most likely,
 you don’t really need to know the exact ins and outs. But, having a basic 
@@ -31,7 +31,8 @@ Before we go into the career transition from System Administrator to DevOps let�
 https://levelup.gitconnected.com/journey-to-become-a-devops-engineer-2a4cdfd1912c
 ###
 
-How To Become a DevOps Engineer In Six Months or Less
+
+## How To Become a DevOps Engineer In Six Months or Less
 
 Are you a developer looking to shift your career towards a more DevOps model?
 Are you are a classically trained Ops person and you would like to get a feeling of what this whole DevOps thing is all about?
@@ -39,4 +40,5 @@ Or are you neither, and having spent some time working with technology you are n
 If so, read on, for we are going to see how to become a mid-level DevOps engineer in six months!
 Finally, if you have been doing this DevOps thing for years now, you might still find this useful as a validation of where we are and where this is going.
 https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737
+###
 
