@@ -50,4 +50,9 @@ The main safeguard put in place by this distro is the TOR network. TOR hides you
 https://medium.com/upskilling/how-to-become-invisible-on-the-web-using-linux-dc86ef12ab51
 ###
 
+## DevOps Tutorial For Beginners | Demo on CI/CD Pipeline Using Jenkins
+This video on "DevOps Tutorial For Beginners" explains the origin of DevOps, fundamental concepts of DevOps such as DevOps Pipeline and tools in detail with the help of examples and demos. Below are the topics covered in this Full Course DevOps Tutorial for Beginners:
+https://www.youtube.com/watch?v=4I2uOZw3moM&t=1s
+###
+
 
