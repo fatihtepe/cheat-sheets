@@ -42,3 +42,12 @@ Finally, if you have been doing this DevOps thing for years now, you might still
 https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737
 ###
 
+
+##How To: Become Invisible on the Web Using Linux
+
+‘Tails’ is a Debian based Linux distribution renowned by Edward Snowden for is privacy capabilities. With a simple design, it is very easy to use by anyone and offers a host of security features preinstalled to make your online experience totally anonymous. Note that Tails is 100% dedicated to online privacy, and is not a suitable for gaming, media production, office work, or casual use. The best way to get the most out of Tails is by downloading it onto a ‘bootable’ USB key and plugging it into any public or private computer to instantly become invisible wherever you go.
+The main safeguard put in place by this distro is the TOR network. TOR hides your IP address by randomly running your data through a series of TOR nodes before hitting the main server. That way, if the server company wants to see your IP all they will see is the last node that the TOR ran through (which is some random IP not connected to you). Also, all of your data sent through TOR is encrypted, so anyone listening in on your data stream will only see gibberish.
+https://medium.com/upskilling/how-to-become-invisible-on-the-web-using-linux-dc86ef12ab51
+###
+
+
