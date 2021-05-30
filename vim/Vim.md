@@ -9,7 +9,7 @@ Ubiquitous — Shipped with every NIX Platform. <br>
 Highly customizable — Can be tailored to your needs.<br>
 Lightning-fast.<br>
 Insanely efficient.!<br>
-<a href="https://user-images.githubusercontent.com/79118602/120117672-4a24a680-c15c-11eb-9733-f606be07b559.png">Basic Vim Commands</a>
+<a href="https://user-images.githubusercontent.com/79118602/120117672-4a24a680-c15c-11eb-9733-f606be07b559.png">Basic Vim Commands</a> <br>
 https://betterprogramming.pub/understanding-the-efficiency-of-vim-d6a5ab8feb2d
 ###
 
