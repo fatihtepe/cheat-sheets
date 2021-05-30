@@ -57,5 +57,6 @@ https://www.youtube.com/watch?v=4I2uOZw3moM&t=1s
 
 
 ## Learn to Live in terminal
-For a DevOps guy, it’s important to have good command in the command line, particularly if he is working in Linux. Knowing some Linux shell like Bash, or Ksh and tools like <a href="https://javarevisited.blogspot.com/2018/08/10-example-of-find-command-in-unix-linux.html#axzz5E2uHdG3w">find</a>, grep, awk, sed, lsof, and networking commands like nslookup and netstat is mandatory.
+For a DevOps guy, it’s important to have good command in the command line, particularly if he is working in Linux. Knowing some Linux shell like Bash, or Ksh and tools like <a href="https://javarevisited.blogspot.com/2018/08/10-example-of-find-command-in-unix-linux.html#axzz5E2uHdG3w">find</a>, <a href="https://www.java67.com/2017/07/grep-command-example-list-only-file-names-matching-string.html">grep</a>, awk, <a href="https://javarevisited.blogspot.com/2013/05/sed-command-examples-in-unix-and-linux.html#axzz56KhwFZ4z">sed</a>, <a href="https://javarevisited.blogspot.com/2016/06/10-example-of-lsof-command-in-unix-linux.html#axzz5CkWP96Nb">lsof</a>, and networking commands like <a href="https://javarevisited.blogspot.com/2017/04/how-hostname-to-ip-address-conversion-or-name-resolution-works-in-Linux.html">nslookup</a> and netstat is mandatory.
+
 ###
