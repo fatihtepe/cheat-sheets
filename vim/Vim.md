@@ -1,4 +1,4 @@
-
+<a href="https://user-images.githubusercontent.com/79118602/120117672-4a24a680-c15c-11eb-9733-f606be07b559.png">Basic Vim Commands</a> <br>
 ## Vim: How to Start Using The Text Editor for Developers
 https://medium.com/hackernoon/vim-the-text-editor-millenials-are-killing-and-how-we-can-stop-them-feadc8d5038
 ###
