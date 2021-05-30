@@ -56,3 +56,6 @@ https://www.youtube.com/watch?v=4I2uOZw3moM&t=1s
 ###
 
 
+## Learn to Live in terminal
+For a DevOps guy, it’s important to have good command in the command line, particularly if he is working in Linux. Knowing some Linux shell like Bash, or Ksh and tools like <a href="https://javarevisited.blogspot.com/2018/08/10-example-of-find-command-in-unix-linux.html#axzz5E2uHdG3w">find</a>, grep, awk, sed, lsof, and networking commands like nslookup and netstat is mandatory.
+###
