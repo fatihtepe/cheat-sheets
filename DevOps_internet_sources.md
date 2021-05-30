@@ -58,5 +58,11 @@ https://www.youtube.com/watch?v=4I2uOZw3moM&t=1s
 
 ## Learn to Live in terminal
 For a DevOps guy, it’s important to have good command in the command line, particularly if he is working in Linux. Knowing some Linux shell like Bash, or Ksh and tools like <a href="https://javarevisited.blogspot.com/2018/08/10-example-of-find-command-in-unix-linux.html#axzz5E2uHdG3w">find</a>, <a href="https://www.java67.com/2017/07/grep-command-example-list-only-file-names-matching-string.html">grep</a>, awk, <a href="https://javarevisited.blogspot.com/2013/05/sed-command-examples-in-unix-and-linux.html#axzz56KhwFZ4z">sed</a>, <a href="https://javarevisited.blogspot.com/2016/06/10-example-of-lsof-command-in-unix-linux.html#axzz5CkWP96Nb">lsof</a>, and networking commands like <a href="https://javarevisited.blogspot.com/2017/04/how-hostname-to-ip-address-conversion-or-name-resolution-works-in-Linux.html">nslookup</a> and netstat is mandatory.
+###
 
+## The Complete DevOps RoadMap
+DevOps is really hot at the moment and most of my friends, colleagues, and senior developers I know are working hard to become a DevOps engineer and project themselves as DevOps champion in their organization.
+While I truly acknowledge the benefits of DevOps, which is directly linked to improved software development and deployment, from my limited experience I can say that it’s not an easy job. It’s very difficult to choose the right path in the middle of so many tools and practices.
+Being a Java blogger, many of my readers often ask me questions like how to become a DevOps engineer, which tools should I learn? which practices should I follow? does learning Maven and Jenkins must for a DevOps guy? how about Docker and Kubernetes? Does the infrastructure automation part of DevOps? should I learn Chef, Puppet, or Ansible are just some of those questions which keep coming to me.
+https://medium.com/hackernoon/the-2018-devops-roadmap-31588d8670cb
 ###
