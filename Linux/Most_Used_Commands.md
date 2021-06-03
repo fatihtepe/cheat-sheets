@@ -27,7 +27,7 @@
 - top
 
 ## The shell you want to use
-- or Bash that would be /bin/bash. For Zsh that would be /usr/bin/zsh
+- for Bash that would be /bin/bash. For Zsh that would be /usr/bin/zsh
 
 
 
