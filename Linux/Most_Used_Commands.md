@@ -26,6 +26,8 @@
 ## Show all running process in your machine. hit q to stop.
 - top
 
+## The shell you want to use
+- or Bash that would be /bin/bash. For Zsh that would be /usr/bin/zsh
 
 
 
