@@ -1,3 +1,9 @@
+## The Pipe Command ( | )
+cat tepe.txt | grep “tepe"  ==> read tepe.txt and look for "tepe"
+
+
+
+
 -# this is a comment
 
 -echo "Hello World"  # print new line after Command
