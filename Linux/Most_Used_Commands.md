@@ -23,7 +23,7 @@
 ## Rename app.js to newApp.js
 - mv app.js newApp.js
 
-## # Show all running process in your machine. hit q to stop.
+## Show all running process in your machine. hit q to stop.
 - top
 
 
