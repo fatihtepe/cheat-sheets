@@ -29,6 +29,13 @@
 ## The shell you want to use
 - for Bash that would be /bin/bash. For Zsh that would be /usr/bin/zsh
 
+*To make any shell your default, first verify it is installed and recognized on your computer by looking at the contents of 
+- /etc/shells
+
+*Then use chsh to change your shell:
+
+- sudo chsh -s /usr/bin/bash $(whoami) # or sudo chsh -s /bin/bash $(whoami)
+
 
 
 
