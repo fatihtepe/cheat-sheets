@@ -74,3 +74,8 @@ DevOps is a culture that encourages collaborations among all stakeholders includ
 While DevOps heavily emphasizes the need for cultural change within a company, the industry has most definitely adopted a job title for “DevOps Engineer.” As with most job titles and roles within a company, there are usually junior, experienced, and senior members that focus on that role.
 https://medium.com/devops-dudes/differences-between-junior-devops-and-senior-devops-engineers-8d0f28b8b30b
 ###
+## DevOps Is Dead, Long Live NoOps
+DevOps is the fusion of development and operations and is the practice of development and operations engineers collaborating together to define processes that drive the service lifecycle, from the design to the delivery.
+NoOps means no operation. Its philosophy is to remove all the platform management parts and reduce friction between developers and infrastructure.
+https://betterprogramming.pub/devop-noops-difference-504dfc4e9faa
+###
