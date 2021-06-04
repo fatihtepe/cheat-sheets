@@ -68,3 +68,14 @@ While I truly acknowledge the benefits of DevOps, which is directly linked to im
 Being a Java blogger, many of my readers often ask me questions like how to become a DevOps engineer, which tools should I learn? which practices should I follow? does learning Maven and Jenkins must for a DevOps guy? how about Docker and Kubernetes? Does the infrastructure automation part of DevOps? should I learn Chef, Puppet, or Ansible are just some of those questions which keep coming to me.
 https://medium.com/hackernoon/the-2018-devops-roadmap-31588d8670cb
 ###
+
+## Differences Between Junior DevOps and Senior DevOps Engineers
+DevOps is a culture that encourages collaborations among all stakeholders including development and operations teams and the improvement of processes through automation to increase the quality and speed of software delivery.
+While DevOps heavily emphasizes the need for cultural change within a company, the industry has most definitely adopted a job title for “DevOps Engineer.” As with most job titles and roles within a company, there are usually junior, experienced, and senior members that focus on that role.
+https://medium.com/devops-dudes/differences-between-junior-devops-and-senior-devops-engineers-8d0f28b8b30b
+###
+## DevOps Is Dead, Long Live NoOps
+DevOps is the fusion of development and operations and is the practice of development and operations engineers collaborating together to define processes that drive the service lifecycle, from the design to the delivery.
+NoOps means no operation. Its philosophy is to remove all the platform management parts and reduce friction between developers and infrastructure.
+https://betterprogramming.pub/devop-noops-difference-504dfc4e9faa
+###
