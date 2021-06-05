@@ -83,3 +83,8 @@ https://betterprogramming.pub/devop-noops-difference-504dfc4e9faa
 The demand for DevOps has been increasing within the market hence increasing the demand for a skilled DevOps team. As almost every company is implementing cloud services for their working for which they require professionals. If you belong to an IT background then learning DevOps has become a need to start with your career.
 DevOps has a promising future with numerous solutions to IT problems. Well, there is no doubt that DevOps experts are highly paid and dedicated. DevOps is a great approach that is now adopted by many IT companies to provide reliable and faster solutions to their clients. https://medium.com/devopscurry/is-devops-still-a-good-career-choice-in-2021-293f8a5a36df
 ###
+## The Evolution of CI/CD
+Continuous Integration and Continuous Delivery have become a staple of any competent software house. They have become the lifeblood of the team and the engine that drives changes out into production.
+Modern CI/CD solutions are all singing, all dancing masters of delivery. They come packed with useful, funky features. Yet, it’s easy to forget that the origins of CI/CD were very humble. This article is a high-level look at how CI/CD has changed over the years, to give a perspective of the direction of travel.
+https://medium.com/the-devops-corner/the-evolution-of-ci-cd-763df723f05b
+###
