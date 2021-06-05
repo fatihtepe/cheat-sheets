@@ -79,3 +79,7 @@ DevOps is the fusion of development and operations and is the practice of develo
 NoOps means no operation. Its philosophy is to remove all the platform management parts and reduce friction between developers and infrastructure.
 https://betterprogramming.pub/devop-noops-difference-504dfc4e9faa
 ###
+## Is Devops still a good career choice in 2021?
+The demand for DevOps has been increasing within the market hence increasing the demand for a skilled DevOps team. As almost every company is implementing cloud services for their working for which they require professionals. If you belong to an IT background then learning DevOps has become a need to start with your career.
+DevOps has a promising future with numerous solutions to IT problems. Well, there is no doubt that DevOps experts are highly paid and dedicated. DevOps is a great approach that is now adopted by many IT companies to provide reliable and faster solutions to their clients.
+### https://medium.com/devopscurry/is-devops-still-a-good-career-choice-in-2021-293f8a5a36df
