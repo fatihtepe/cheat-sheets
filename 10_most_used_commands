@@ -1,0 +1,19 @@
+- open your terminal and run the below command!!
+
+history | awk '{print $2}' | sort | uniq -c | sort -nr | head -n 10
+
+
+Mine is: 
+
+223 git
+ 159 ls
+ 144 cd
+ 125 clear
+  58 open
+  39 ..
+  33 rm
+  33 cl
+  32 echo
+  26 ssh
+  
+  what are your most used commands??
