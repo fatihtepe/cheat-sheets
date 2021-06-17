@@ -10,7 +10,7 @@
 ```
 
 
-```or``` 
+```or``` Thanks to @Tyler-Instructor check his suggestion:)
 
 ```
 - PS1="\[\e[36m\]\u\[\e[m\]@\h-\w:\[\e[31m\]\\$\[\e[m\] "
