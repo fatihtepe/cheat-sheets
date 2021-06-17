@@ -2,6 +2,8 @@
 ```
 - sudo yum install git
 
+- sudo yum install zsh
+
 - sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 - zsh
