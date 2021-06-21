@@ -36,5 +36,32 @@ sudo passwd username
 ```
 sudo chsh username
 ```
+## Sudo
 
+```Switch to thte superuser account```
+```
+sudo su
+```
+```Switch to the superuser account with root's environment```
+```
+sudo su -
+```
+```Switch to the username's account with the username's environment```
+```
+sudo su - username
+```
+
+## add a user to sudo group
+```
+- sudo su -
+- adduser newusername
+	New password:
+	Retype password:
+	Changin the user information for newusername
+- gpasswd -a newusername sudo
+```
+```Remove sudo user from the sudo group```
+```
+gpasswd -d newusername sudo
+```
 
